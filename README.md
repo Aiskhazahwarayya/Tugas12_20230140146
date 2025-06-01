@@ -11,3 +11,4 @@ Kelas: C
 
 
 ## Link GitHub Pages
+https://aiskhazahwarayya.github.io/Tugas12_20230140146/
