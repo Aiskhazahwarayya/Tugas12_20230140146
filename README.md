@@ -5,9 +5,10 @@ NIM: 20230140146
 Kelas: C
 
 ## Hasil Tugas
-![Tampilan Utama](https://github.com/user-attachments/assets/f2570f5c-9034-440e-9387-d5e2fc7be448)
-![Popup data kosong](https://github.com/user-attachments/assets/bc18965e-b940-4210-b6cb-3215779e0ca7)
-![Popup menampilkan data](https://github.com/user-attachments/assets/29dfb5d1-9607-473b-893e-2d10e099b56c)
+![Tampilan Utama](https://github.com/user-attachments/assets/1a3d3074-90dc-4caa-932b-7fa810fb7550)
+![Popup data kosong](https://github.com/user-attachments/assets/2a1715e1-d9f2-4e98-940b-407faa61385b)
+![Popup menampilkan data](https://github.com/user-attachments/assets/a727485b-7bb7-4e29-8b60-4fd16cd9519f)
+
 
 
 ## Link GitHub Pages
